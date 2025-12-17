@@ -1,0 +1,5 @@
+streamlit
+plotly
+pandas
+spacy
+en_core_web_sm
